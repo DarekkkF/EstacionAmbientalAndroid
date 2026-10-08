@@ -1,0 +1,22 @@
+{
+  "estaciones": {
+    "estacion01": {
+      "actual": {
+        "temperatura": 23.5,
+        "humedad": 55.0,
+        "luz": 720,
+        "gas": 240,
+        "indiceConfort": 85,
+        "estado": "Ambiente saludable",
+        "timestamp": 1760000000
+      }
+    }
+  },
+  "control": {
+    "estacion01": {
+      "alerta": false,
+      "mensaje": "Sin alertas",
+      "actualizadoPor": "Sistema"
+    }
+  }
+}

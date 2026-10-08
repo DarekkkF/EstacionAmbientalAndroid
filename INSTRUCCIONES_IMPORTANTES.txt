@@ -1,0 +1,9 @@
+1. Copia tu google-services.json de Firebase dentro de la carpeta app/.
+2. Abre la carpeta EstacionAmbiental en Android Studio.
+3. Espera a que Gradle sincronice.
+4. Ejecuta la app.
+5. En Firebase Authentication activa Email/Password.
+6. En Realtime Database configura las reglas del archivo firebase_database_rules.json.
+7. La aplicación espera los datos en estaciones/estacion01/actual.
+8. La interacción entre dos celulares usa control/estacion01.
+9. No subas google-services.json si tu profesor exige ocultar la configuración; revisa las instrucciones del curso.

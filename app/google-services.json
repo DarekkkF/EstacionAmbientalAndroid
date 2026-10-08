@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578027731429",
+    "firebase_url": "https://estacionambiental-eb604-default-rtdb.firebaseio.com",
+    "project_id": "estacionambiental-eb604",
+    "storage_bucket": "estacionambiental-eb604.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578027731429:android:6f80fefc2f3f0b646ad70c",
+        "android_client_info": {
+          "package_name": "com.example.estacionambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWpB1y5jLB-vGd8y0i2FABShumHRf7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
